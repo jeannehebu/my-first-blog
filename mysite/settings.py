@@ -25,7 +25,7 @@ SECRET_KEY = 'dckp(zo$-5&#adf_d@jo5vu(of4z-^=2pz32vu)hoqy4v&@&&_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
